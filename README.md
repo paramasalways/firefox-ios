@@ -114,3 +114,4 @@ npm run build
 * Each commit should have a single clear purpose. If a commit contains multiple unrelated changes, those changes should be split into separate commits.
 * If a commit requires another commit to build properly, those commits should be squashed.
 * Follow-up commits for any review comments should be squashed. Do not include "Fixed PR comments", merge commits, or other "temporary" commits in pull requests.
+# hi
